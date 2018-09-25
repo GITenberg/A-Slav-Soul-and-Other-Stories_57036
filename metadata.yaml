@@ -1,0 +1,29 @@
+_repo: A-Slav-Soul-and-Other-Stories_57036
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Graham, Steve
+    gutenberg_agent_id: '49156'
+    url: http://www.gutenberg.org/2009/agents/49156
+  translator:
+    agent_name: Graham, Rosa
+    gutenberg_agent_id: '49157'
+    url: http://www.gutenberg.org/2009/agents/49157
+creator:
+  author:
+    agent_name: Kuprin, Alexander
+    gutenberg_agent_id: '49155'
+    url: http://www.gutenberg.org/2009/agents/49155
+description: ''
+gutenberg_issued: '2018-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Slav Soul and Other Stories
+url: http://www.gutenberg.org/ebooks/57036
